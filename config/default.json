@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://josh:joshuadev123@mernsocialnetwork.hmem1.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "tokenopensesame"
+}
